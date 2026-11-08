@@ -91,7 +91,7 @@ export function SangeetSection() {
 
       <div className="sangeet-bottomline">
         <span>GOOD MUSIC. GREAT COMPANY.</span>
-        <span>LET'S MAKE MEMORIES</span>
+        <span>LET&apos;S MAKE MEMORIES</span>
       </div>
     </section>
   );

@@ -218,7 +218,7 @@ export function InvitationPage({
                 <h2 className="rocky-title">
                   Rocky says
                   <br />
-                  <em>You're Invited!</em>
+                  <em>You&apos;re Invited!</em>
                 </h2>
 
                 <div className="rocky-photo">
@@ -234,7 +234,7 @@ export function InvitationPage({
                 <p className="rocky-message">
                   My hoomans are getting married!
                   <br />
-                  I've been wagging my tail waiting for this day.
+                  I&apos;ve been wagging my tail waiting for this day.
                   <br />
                   Come celebrate with us!
                 </p>

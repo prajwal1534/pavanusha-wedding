@@ -1,6 +1,5 @@
 'use client';
 
-import { useRef } from 'react';
 import { motion, useReducedMotion } from 'motion/react';
 
 export function RevealOnScroll({

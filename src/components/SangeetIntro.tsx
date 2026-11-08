@@ -49,14 +49,14 @@ export function SangeetIntro({ guestName }: { guestName: string }) {
       </div>
 
       <h1 className="sangeet-intro-title">
-        Here's to
+        Here&apos;s to
         <br />
         <i>Seven Years & Forever.</i>
       </h1>
 
       <p className="sangeet-intro-description">
         Together with our families, we invite you to join us for an evening of music,
-        dance and celebration at our Sangeet, followed by our wedding day. It wouldn't be
+        dance and celebration at our Sangeet, followed by our wedding day. It wouldn&apos;t be
         the same without you!
       </p>
 
